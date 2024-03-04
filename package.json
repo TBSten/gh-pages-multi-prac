@@ -1,0 +1,9 @@
+{
+  "name": "gh-pages-multi-prac",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@koumoul/gh-pages-multi": "^0.7.2"
+  }
+}
